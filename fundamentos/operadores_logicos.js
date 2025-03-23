@@ -16,5 +16,4 @@ if (faltas >= 2 && !advertencia){
     
 }else{
     console.log('Não Recebeu bonus');
-
 }
